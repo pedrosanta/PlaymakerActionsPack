@@ -1,5 +1,5 @@
 / * Is Animation Playing - Playmaker Custom Action
-  * http://https://github.com/pedrosanta/PlaymakerActions */
+  * https://github.com/pedrosanta/PlaymakerActions */
 
 using UnityEngine;
 
