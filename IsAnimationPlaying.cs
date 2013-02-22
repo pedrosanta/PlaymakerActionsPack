@@ -67,8 +67,6 @@ namespace HutongGames.PlayMaker.Actions{
 			}
 						
 			storeValue.Value = go.animation.IsPlaying(animName.Value);
-			
-			Finish();		
 		}
 	}
 }	
