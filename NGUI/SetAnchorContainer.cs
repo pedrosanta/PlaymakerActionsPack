@@ -22,9 +22,10 @@ namespace HutongGames.PlayMaker.Actions
 		public bool everyFrame;
 		
 		public override void Reset(){
-			everyFrame = false;
+			gameObject = null;
 			widgetContainer = null;
 			panelContainer = null;
+			everyFrame = false;
 		}
 		
 		public override void OnEnter(){
